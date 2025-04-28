@@ -8,17 +8,17 @@
 
 <h2>🛠️ Featured Projects:</h2>
 <ul>
-  <li><b>Linux Migration Proposal:</b> Streamlining OS transitions for improved security and performance  
-    <br/>🔗 <a href="https://github.com/joshmadakor1/Algorithms-Practice" target="_blank">Practicing DS & Algos in Python</a>
+  <li>Streamlining OS transitions for improved security and performance  
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Linux%20Migration%20Proposal.pdf" target="_blank">Linux Migration Proposal</a>
   </li>
-  <li><b>Support Queues:</b> Developed middleware to enhance user response time in online forums  
-    <br/>🔗 <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a>
+  <li> Developed middleware to enhance user response time in online forums  
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Support%20Queue.pdf">Support Queues</a>
   </li>
-  <li><b>Vulnerability Analysis:</b> Identified and documented system weaknesses and proposed actionable fixes  
-    <br/>🔗 <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a>
+  <li> Identified and documented system weaknesses and proposed actionable fixes  
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Vulnerability%20Memo.docx.pdf" target="_blank">Vulnerability Analysis</a>
   </li>
-  <li><b>Network Configuration:</b> Simulated and configured Cisco networks using Packet Tracer  
-    <br/>🔗 <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964" target="_blank">Image Analysis Middleware</a>
+  <li>Simulated and configured Cisco networks using Packet Tracer  
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Cisco%20Packet%20Tracer%20-%20Network%20Configuration.pka">Network Configuration</a>
   </li>
 </ul>
 
@@ -30,4 +30,3 @@
 </p>
 <h3>
   🔗 <a href="https://www.linkedin.com/in/ralph-r-507814294/" target="_blank" style="color:#0077B5;">LinkedIn</a>
-</h3>
