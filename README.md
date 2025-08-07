@@ -21,7 +21,7 @@
     <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Cisco%20Packet%20Tracer%20-%20Network%20Configuration.pka">Network Configuration</a>
   </li>
  <li>Omega-Red CTF Writeup   
-    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/9b8eb6b5040c32ba2f0f42a49da90aa2b421f4d6/Capture%20The%20Flag%201.pdf">CTF</a>
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/9b8eb6b5040c32ba2f0f42a49da90aa2b421f4d6/Capture%20The%20Flag%201.pdf">Capture The Flag</a>
   </li>
 </ul>
 
