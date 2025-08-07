@@ -20,6 +20,9 @@
   <li>Simulated and configured Cisco networks using Packet Tracer  
     <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/main/Cisco%20Packet%20Tracer%20-%20Network%20Configuration.pka">Network Configuration</a>
   </li>
+ <li>Capture The Flag Objective   
+    <br/>🔗 <a href="https://github.com/ralphxr/portfolio/blob/9b8eb6b5040c32ba2f0f42a49da90aa2b421f4d6/Capture%20The%20Flag%201.pdf">CTF</a>
+  </li>
 </ul>
 
 <hr/>
